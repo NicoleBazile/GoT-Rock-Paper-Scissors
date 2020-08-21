@@ -1,0 +1,37 @@
+.gameOfThrones{
+background-image: url(../img/westeros.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+color: white;
+background-position: 0 10%;
+text-align: center;
+margin: 200px 100px 0px 100px;
+
+}
+.border{
+ border: 2px solid black;
+ background-color: black;
+ margin: auto 300px auto 300px;
+ opacity: 0.7;
+}
+.scoreboard{
+  font-weight: bolder;
+}
+table {
+  margin: 0 auto;
+  width: 20%;
+}
+
+#humanScore, #computerScore  {
+    font-size: 35px;
+  }
+#rock, #paper, #scissors{
+    font-size: 15px;
+  }
+  #status, p{
+    font-size: 20px;
+    font-weight: bolder;:
+  }
+h1{
+  font-size: 2.6rem;
+}
